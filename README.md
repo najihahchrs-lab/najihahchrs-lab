@@ -33,8 +33,6 @@ A motivated and dedicated university student with strong communication and teamw
 - Managed product arrangement and restocking
 - Promoted products and sales
 
-
-
 ## Skills
 - Microsoft Word
 - Microsoft Excel
@@ -54,3 +52,8 @@ A motivated and dedicated university student with strong communication and teamw
 - Participated in Entrepreneurship Carnival (FESKOM) during Matriculation, gaining exposure to business and entrepreneurial activities.
 - Appointed as Committee Member in various university programs, contributing to event planning and management.
 - Participated in Mahasiswa Negara Program, enhancing leadership, teamwork, and communication skills.
+
+## Contact Information
+Reachable via phone and email for academic or professional matters:
+- Phone: +60 11-3722 4577
+- Email: najihahchrs@gmail.com
