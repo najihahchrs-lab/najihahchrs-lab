@@ -1,4 +1,4 @@
-# najihahchrs-lab
+# ABOUT
 
 ## Contact Information
 - Name: Nur Najihah binti Che Rus
