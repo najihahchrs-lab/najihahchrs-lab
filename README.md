@@ -41,6 +41,13 @@ A motivated and dedicated university student with strong communication and teamw
 - Teamwork
 - Communication Skills
 
+## Activity
+- Actively engaged as a member of the Economics Student Association, UPSI, contributing to academic and community initiatives.
+- Volunteered in impactful programs such as Ramadan for Palestine and environmental projects like Shoreline Guardians and Jungle Trekking.
+- Participated in high-profile university events including Run for a Better Tomorrow, Pestari 1.0, and Treasure Hunt Explorance FPE.
+- Involved in national and international programs such as The Trophy Public Speaking, STEM SAMS 2025, and Global Students Forum, enhancing leadership and communication skills.
+- Showcased creativity and cultural involvement through Malam Permata Seni, KHAR Vlog Contest, and Jejak Tradisi.
+  
 ## Achievements
 ### List of Achievements  
 - Served as a School Prefect during secondary school, demonstrating leadership and responsibility skills.
