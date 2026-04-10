@@ -54,4 +54,4 @@ A motivated and dedicated university student with strong communication and teamw
 - Achieved 7A and 2B in the Sijil Pelajaran Malaysia (SPM) examination, also 4.00 in matriculation.
 - Participated in Entrepreneurship Carnival (FESKOM) during Matriculation, gaining exposure to business and entrepreneurial activities.
 - Appointed as Committee Member in various university programs, contributing to event planning and management.
-- Participated in Mahasiswa Madani Program, enhancing leadership, teamwork, and communication skills.
+- Participated in Mahasiswa Negara Program, enhancing leadership, teamwork, and communication skills.
