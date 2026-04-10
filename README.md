@@ -3,13 +3,11 @@
 Hi, I'm Nur Najihah binti Che Rus, an Economics student at Universiti Pendidikan Sultan Idris (UPSI) with an interest in data analysis and research.
 Currently learning Python and using GitHub to share academic projects and expand my technical skills.
 
-## Contact Information
-- Name: Nur Najihah binti Che Rus
-- Email: najihahchrs@gmail.com
-- Phone: (+60) 11-3722 4577
-- Date of Birth: 4 Sept 2005
-- Nationality: Malaysia
-
+## Education
+- Bachelor of Economics (Finance), Sultan Idris Education University (currently pursuing)
+- Matriculation in Accountancy, Ministry of Education Malaysia
+- Malaysian Certificate of Education (Sijil Pelajaran Malaysia), SMK Tunku Ismail
+  
 ## Professional Summary
 A motivated and dedicated university student with strong communication and teamwork skills. Passionate about learning new knowledge and gaining working experience. Able to work independently and collaboratively in achieving organizational goals.
 
