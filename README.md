@@ -34,10 +34,6 @@ A motivated and dedicated university student with strong communication and teamw
 - Promoted products and sales
 
 
-## Education
-### Economic (Finance)  
-**Sultan Idris Education University** - Tanjong Malim, Perak  
-*30 Sept 2024 - 30 Mac 2029*
 
 ## Skills
 - Microsoft Word
