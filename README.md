@@ -48,8 +48,7 @@ A motivated and dedicated university student with strong communication and teamw
 - Involved in national and international programs such as The Trophy Public Speaking, STEM SAMS 2025, and Global Students Forum, enhancing leadership and communication skills.
 - Showcased creativity and cultural involvement through Malam Permata Seni, KHAR Vlog Contest, and Jejak Tradisi.
   
-## Achievements
-### List of Achievements  
+## Achievements 
 - Served as a School Prefect during secondary school, demonstrating leadership and responsibility skills.
 - Achieved 7A and 2B in the Sijil Pelajaran Malaysia (SPM) examination, also 4.00 in matriculation.
 - Participated in Entrepreneurship Carnival (FESKOM) during Matriculation, gaining exposure to business and entrepreneurial activities.
