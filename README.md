@@ -1,6 +1,6 @@
 # ABOUT
 
-Hi, I'm Nur Najihah binti Che Rus, an Economics student at Universiti Pendidikan Sultan Idris (UPSI) with an interest in data analysis and research.
+Hi, I'm Nur Najihah binti Che Rus, an Economics student at Sultan Idris Education University (UPSI) with an interest in data analysis and research.
 Currently learning Python and using GitHub to share academic projects and expand my technical skills.
 
 ## Education
