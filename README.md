@@ -38,6 +38,7 @@ Finance Skills:
 - Financial Analysis
 - Basic Accounting
 - Economic Research
+
 Tools:
 - Excel
 - PowerPoint
