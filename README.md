@@ -34,10 +34,13 @@ A motivated and dedicated university student with strong communication and teamw
 - Promoted products and sales
 
 ## Skills
-- Microsoft Word
-- Microsoft Excel
-- Teamwork
-- Communication Skills
+Finance Skills:
+- Financial Analysis
+- Basic Accounting
+- Economic Research
+Tools:
+- Excel
+- PowerPoint
 
 ## Activity
 - Actively engaged as a member of the Economics Student Association, UPSI, contributing to academic and community initiatives.
